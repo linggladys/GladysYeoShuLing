@@ -35,7 +35,7 @@ elseif(isset($_POST['id']) && is_numeric ($_POST['id'])){
 	
 	if (mysqli_affected_rows($dbc) == 1){
 		print '<p><br><br>The blog entry has been deleted.</p>
-		Click <a href="loginsuccess.php"> here</a> to continue';
+		Click <a href="adminsuccess.php"> here</a> to continue';
 	}else{
 		print '
 		<p><br><br>Could not delete because <br/>:';
