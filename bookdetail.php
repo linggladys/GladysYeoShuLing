@@ -49,7 +49,7 @@
 			<h5 class="text-center">Please rate the book</h5>
 			<div class="text-center">
               <span class="fa fa-star" id="star1" title="I totally dislike it" onclick="addstar(this,1)"></span>
-			  <span class="fa fa-star" id="star2" title="I dislike it" onclick="addstar(this,2)"></span>
+	      <span class="fa fa-star" id="star2" title="I dislike it" onclick="addstar(this,2)"></span>
               <span class="fa fa-star" id="star3" title="I like it" onclick="addstar(this,3)"></span>
               <span class="fa fa-star" id="star4" title="I totally like it" onclick="addstar(this,4)"></span>
               <span class="fa fa-star" id="star5" title="I love it!" onclick="addstar(this,5)"></span>
