@@ -1,7 +1,7 @@
 <body>
 <!-- Navigation -->
 <?php
-require 'header-member.php'
+require 'adminheader.php'
 ?>
 <!--end of nav header-->
 <div class="container">
