@@ -14,7 +14,7 @@
 
   <!-- All the CSS styles -->
   <link href="css/header.css" rel="stylesheet">
-  <link href="css/business-frontpage-login.css" rel="stylesheet">
+
   
   <!-- Familiy font-->
   <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@700&display=swap" rel="stylesheet">
